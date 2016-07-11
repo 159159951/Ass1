@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7DFF15971D32A84D006D760E"
-               BuildableName = "Ass1.app"
-               BlueprintName = "Ass1"
-               ReferencedContainer = "container:Ass1.xcodeproj">
+               BlueprintIdentifier = "1C3436CEA5C3D39764C5F54374794ECB"
+               BuildableName = "AFNetworking.framework"
+               BlueprintName = "AFNetworking"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7DFF15971D32A84D006D760E"
-            BuildableName = "Ass1.app"
-            BlueprintName = "Ass1"
-            ReferencedContainer = "container:Ass1.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7DFF15971D32A84D006D760E"
-            BuildableName = "Ass1.app"
-            BlueprintName = "Ass1"
-            ReferencedContainer = "container:Ass1.xcodeproj">
+            BlueprintIdentifier = "1C3436CEA5C3D39764C5F54374794ECB"
+            BuildableName = "AFNetworking.framework"
+            BlueprintName = "AFNetworking"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,15 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7DFF15971D32A84D006D760E"
-            BuildableName = "Ass1.app"
-            BlueprintName = "Ass1"
-            ReferencedContainer = "container:Ass1.xcodeproj">
+            BlueprintIdentifier = "1C3436CEA5C3D39764C5F54374794ECB"
+            BuildableName = "AFNetworking.framework"
+            BlueprintName = "AFNetworking"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
